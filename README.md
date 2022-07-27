@@ -18,7 +18,7 @@
 
 ### Skills Gained from this
 
-- Learned about CSS Positioning, Relative, Absolute. Also `position: fixed;`.
+- Learned about `display: flex;`, `::marker`. Flexbox is a life savor.
 
 ### Screenshot
 
